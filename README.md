@@ -1,5 +1,14 @@
 # SpeedSter is an online typing speed tester application made using React framework
 
+## Screen-Shots
+![](https://github.com/Robin920/speedster/blob/master/screenShot/speedsterSS1.png)
+
+
+![](https://github.com/Robin920/speedster/blob/master/screenShot/speedsterSS2.png)
+
+
+![](https://github.com/Robin920/speedster/blob/master/screenShot/speedsterSS3.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
