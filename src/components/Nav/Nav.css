@@ -1,0 +1,40 @@
+.nav-container {
+    display: flex;
+    align-items: center;
+    height: 72px;
+    margin: 0;
+    background: #52f3cf;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 10px rgb(82, 78, 78);
+    justify-content: space-between;
+    z-index: 99;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+}
+
+.top-logo {
+    margin-left: 20px;
+    height: 60px;
+}
+
+.logo-text {
+    font-family: "Bangers";
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin: 0 9px;
+
+}
+
+.nav-right {
+    margin-right: 40px;
+}
+
+.link {
+    text-decoration: none;
+    font-family: "Poppins";
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
