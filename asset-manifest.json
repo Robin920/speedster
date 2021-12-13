@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/speedster/static/css/main.cea4a9cf.chunk.css",
+    "main.js": "/speedster/static/js/main.c93cb0f5.chunk.js",
+    "main.js.map": "/speedster/static/js/main.c93cb0f5.chunk.js.map",
+    "runtime-main.js": "/speedster/static/js/runtime-main.e5c39e4a.js",
+    "runtime-main.js.map": "/speedster/static/js/runtime-main.e5c39e4a.js.map",
+    "static/js/2.e22f5c31.chunk.js": "/speedster/static/js/2.e22f5c31.chunk.js",
+    "static/js/2.e22f5c31.chunk.js.map": "/speedster/static/js/2.e22f5c31.chunk.js.map",
+    "index.html": "/speedster/index.html",
+    "static/css/main.cea4a9cf.chunk.css.map": "/speedster/static/css/main.cea4a9cf.chunk.css.map",
+    "static/js/2.e22f5c31.chunk.js.LICENSE.txt": "/speedster/static/js/2.e22f5c31.chunk.js.LICENSE.txt",
+    "static/media/TypingImage.308cf918.jpg": "/speedster/static/media/TypingImage.308cf918.jpg",
+    "static/media/fblogo.197aa76b.png": "/speedster/static/media/fblogo.197aa76b.png",
+    "static/media/logo.f8d89de0.svg": "/speedster/static/media/logo.f8d89de0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5c39e4a.js",
+    "static/js/2.e22f5c31.chunk.js",
+    "static/css/main.cea4a9cf.chunk.css",
+    "static/js/main.c93cb0f5.chunk.js"
+  ]
+}
